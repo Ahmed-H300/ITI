@@ -18,7 +18,7 @@
 
 Build **ITI** website by using **PHP**</li>
 
- <li> The Project is a bout a web site for ITI shows the members and has the abiblity to add memebers
+ <li> The Project is about a web site for ITI shows the members and has the abiblity to add memebers
  </li>
 
 <hr style="background-color: #4b4c60"></hr>
